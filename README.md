@@ -3,6 +3,6 @@
 ---
 ### Edison Estival Restrepo Ospina 
 
-### **Enlace a la página en vivo:** [barberia-alura.com](https://edirestrepo.github.io/Barber-a-Alura/ "Barberia-Alura") 
+### **Enlace a la página en vivo:** [barberia-alura.com](https://edirestrepo.github.io/Barberia-Alura/ "Barberia-Alura") 
 
 👌💻
