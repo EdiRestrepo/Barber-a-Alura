@@ -1,4 +1,4 @@
-# Barbería Alura con HTML5 y CSS3
+# Barbería Alura 
 
 ---
 
